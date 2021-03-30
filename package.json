@@ -27,6 +27,6 @@
     "webpack-stream": "^5.2.1"
   },
   "dependencies": {
-    "three": "^0.115.0"
+    "three": "^0.125.0"
   }
 }
